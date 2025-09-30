@@ -21,9 +21,8 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 
 ## 🚀 Live Demo
 
-[Click here to see it live](https://your-username.github.io/calculator/)
+[Click here to see it live](https://nitesh-kumar864.github.io/simple-calculator/)
 
-> Replace `your-username` with your actual GitHub username after enabling GitHub Pages.
 
 ---
 
