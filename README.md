@@ -15,7 +15,7 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 
 ## 📸 Screenshot
 
-![Calculator Screenshot](screenshot.png) 
+![Calculator Screenshot](Screenshot.png) 
 
 ---
 
@@ -41,7 +41,7 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 
 ## 🙋‍♂️ Author
 
-- **Your Name**
+- **Nitesh Kumar**
 - GitHub: https://github.com/nitesh-kumar864
 
 
