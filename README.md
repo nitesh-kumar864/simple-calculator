@@ -31,7 +31,7 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript 
 
 ---
 
